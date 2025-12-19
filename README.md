@@ -41,16 +41,17 @@ they **enforce engineering discipline**.
 
 ## 🧩 GPT Roles & Responsibilities
 
-| GPT | Responsibility | Output |
-|---|---|---|
-| **Orchestrator GPT** | Process authority & gates | Readiness status, Go / No-Go |
-| **PRD GPT** | Clarify *what & why* | Decision-grade PRD |
-| **ADR GPT** | Explain *why this design* | Architecture Decision Record |
-| **Boundary & Scope GPT** | Freeze responsibility | Boundary & Scope Lock |
-| **Approval Summary GPT** | Secure authority | Executive Go / No-Go summary |
-| **Technology Stack Selector GPT** | Decide *how to build* | Stack & execution environment |
-| **Execution Engineer GPT** | Deterministic implementation | Code |
-| **Reviewer / Auditor GPT** | Risk & integrity check | Review verdict |
+| GPT | Responsibility | Output | GPT Link |
+|---|---|---|---|
+| **Orchestrator GPT** | Process authority & gates | Readiness status, Go / No-Go | https://chatgpt.com/g/g-6943654dd354819193b4bf954684ef3a-orchestrator-gpt |
+| **PRD GPT** | Clarify *what & why* | Decision-grade PRD | https://chatgpt.com/g/g-6943670c0d008191be3d8318270b64a9-prd-gpt |
+| **ADR GPT** | Explain *why this design* | Architecture Decision Record | https://chatgpt.com/g/g-694367878fbc8191b02f851390795588-adr-gpt |
+| **Boundary & Scope GPT** | Freeze responsibility | Boundary & Scope Lock | https://chatgpt.com/g/g-694367c7fcec8191a433bd2513b5fb28-boundary-scope-lock-gpt |
+| **Approval Summary GPT** | Secure authority | Executive Go / No-Go summary | https://chatgpt.com/g/g-6943682d11fc81919b9ffa2a147ab4ad-approval-summary-gpt |
+| **Technology Stack Selector GPT** | Decide *how to build* | Stack & execution environment | https://chatgpt.com/g/g-6944af7372d88191ac00bad38b20dab5-technology-stack-selector-gpt |
+| **Execution Engineer GPT** | Deterministic implementation | Code | https://chatgpt.com/g/g-69436b55025c8191be863f81e5979143-execution-engineer-gpt |
+| **Reviewer / Auditor GPT** | Risk & integrity check | Review verdict | https://chatgpt.com/g/g-69436bc1c6c08191bd9fec664840655c-reviewer-auditor-gpt |
+
 
 ---
 
