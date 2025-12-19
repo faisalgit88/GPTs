@@ -56,27 +56,8 @@ they **enforce engineering discipline**.
 
 ## 🧭 End-to-End Workflow
 
-Idea / Request
-↓
-Orchestrator GPT
-↓
-PRD GPT
-↓
-ADR GPT
-↓
-Boundary & Scope Lock GPT
-↓
-Approval Summary GPT (GO)
-↓
-Technology Stack Selector GPT
-↓
-Orchestrator Final Check
-↓
-🚦 SAFE TO VIBE CODE
-↓
-Execution Engineer GPT
-↓
-Reviewer / Auditor GPT
+![Uploading image.png…]()
+
 
 
 ---
