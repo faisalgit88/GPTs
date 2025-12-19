@@ -56,10 +56,7 @@ they **enforce engineering discipline**.
 
 ## 🧭 End-to-End Workflow
 
-![Alt text](images/diagram.png)
-
-
-
+![Alt text](Gemini_Generated_Image_6vs09f6vs09f6vs0.png)
 
 ---
 
