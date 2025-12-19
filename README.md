@@ -56,7 +56,8 @@ they **enforce engineering discipline**.
 
 ## 🧭 End-to-End Workflow
 
-![Uploading image.png…]()
+![Alt text](images/diagram.png)
+
 
 
 
